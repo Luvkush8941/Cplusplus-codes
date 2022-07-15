@@ -1,0 +1,68 @@
+/*
+
+STL ----> Standard Template Library
+
+1. Conatiners
+2. Iterators
+3. Algorithms
+4. Functors
+
+--------------- Container Types ------------------
+
+1. Sequencial Conatiners (just like arrays)
+   
+   --> Vectors
+   --> Stack
+   --> Queue
+   --> Pair (not a container)
+
+2. Ordered (values in the sorted manner)
+   
+   --> Maps
+   --> Multimap
+   --> Set
+   --> Multiset
+
+3. Unordered (Based on the hashing algorithms)
+
+   --> Unordered map
+   --> Unordered set
+
+------------- Nested Conatiners (containers ke andar containers) --------------
+
+1. Vector<vector<int>>
+
+2. map<int,vector<int>>
+
+3. set<pair<int,string>>
+
+4. vector<map<int,set<int>>>
+
+---------------- Iterators (similar to pointers) ---------------------------
+
+---> Points to memory address of containers
+---> begin(), end()
+---> vector<int> :: iterator iter;
+---> continuity and discontinuity for containers
+
+
+
+---------------- Algorithms --------------------------------------
+
+1. Upper bound    ----> next permutations
+2. Lower bound    ----> prev permutations
+3. Sort (comparator)
+4. max - element
+5. min - element
+6. accumulate
+7. reverse
+8. count
+9. find
+
+
+--------------- Functors ----------------------
+
+Classes which can act as functions
+
+
+*/

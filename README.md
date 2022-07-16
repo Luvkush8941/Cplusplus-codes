@@ -1,2 +1,3 @@
 # C++
-Here you will get the codes of all the concepts that we need to learn in C++.
+Till now you will get the codes of STL library concepts in C++.
+I will make sure to add the C++ basic,oops codes also.
